@@ -9,7 +9,7 @@ nav a:hover{
     color:bisque;
 }
 .baner{
-    background-image: url("/img/baner.jpg");
+    background-image: url("./img/baner.jpg");
     min-height: 550px; 
     background-attachment: fixed;
     background-position: center;
